@@ -1,7 +1,4 @@
-# Spam_mail_detector_using_ML
 # Spam Email Detection using scikit-learn
-
-![Spam Email Detection](spam_email_detection.png)
 
 ## Introduction
 
@@ -26,5 +23,5 @@ To run this project, you'll need the following:
 1. Clone this repository to your local machine:
 
 ```shell
-   git clone https://github.com/yourusername/spam-email-detection.git
+   git clone https://github.com/shukur-alom/Spam_mail_detector_using_ML.git
 ```
