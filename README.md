@@ -25,3 +25,12 @@ To run this project, you'll need the following:
 ```shell
    git clone https://github.com/shukur-alom/Spam_mail_detector_using_ML.git
 ```
+
+2. Install the required Python libraries using pip:
+```shell
+   pip install scikit-learn==0.22.1 
+```
+3. Run The code 
+```shell
+   python spam.py
+```
